@@ -1,0 +1,17 @@
+always 4 black 6 white
+
+Git commands
+git init
+git clone
+git status
+git add
+git commit -m "message"
+git log
+git branch 
+git checkout
+git checkout -b
+git merge
+git push
+git pull
+git reset
+git checkout -- <file>
