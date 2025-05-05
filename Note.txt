@@ -15,3 +15,9 @@ git push
 git pull
 git reset
 git checkout -- <file>
+
+tutorialspoint
+
+does set accepts different data types?
+what is mapping in dictionary ?
+type(variable_name)
