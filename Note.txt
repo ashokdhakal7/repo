@@ -21,3 +21,8 @@ tutorialspoint
 does set accepts different data types?
 what is mapping in dictionary ?
 type(variable_name)
+
+Unicode value and Ascii value
+https://ss64.com/ascii.html
+
+is operator doesn't work for string or works?
