@@ -3,6 +3,7 @@ class shape(ABC):
     @abstractmethod
     def draw(self):
         "Abstract Method"
+        # print ("Abstract Method")
         return
 class circle(shape):
     def draw(self):
