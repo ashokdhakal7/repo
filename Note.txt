@@ -26,3 +26,6 @@ Unicode value and Ascii value
 https://ss64.com/ascii.html
 
 is operator doesn't work for string or works?
+
+
+light effect, word separate, 
