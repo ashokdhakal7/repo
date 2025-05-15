@@ -1,0 +1,1 @@
+#take user input and to check if that is greater than the lenght 3, if not discard it and print the rest.

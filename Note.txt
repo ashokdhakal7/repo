@@ -29,3 +29,6 @@ is operator doesn't work for string or works?
 
 
 light effect, word separate, 
+
+
+for index, element in enumerate(a_list):
